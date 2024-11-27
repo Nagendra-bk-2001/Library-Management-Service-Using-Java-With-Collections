@@ -1,12 +1,34 @@
+# Library Management System Using Java with Collections
+
+## Overview
+This is a simple Library Management System implemented in Java using Collections. The system allows users to perform various operations such as adding books, members, issuing books, returning books, and listing books, members, and loans.
+
+### Features:
+- Add Books
+- Add Members
+- Issue Books
+- Return Books
+- List all Books
+- List all Members
+- List all Loans
+- List Overdue Loans
+
+## Technologies Used:
+- **Java**: Core Java programming
+- **Collections**: To manage data storage and operations
+
+## Getting Started
+
+### Prerequisites
+Make sure you have Java installed on your machine. You can download Java from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+
+### Steps to Run the Application:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nagendra-bk-2001/Library-Management-Service-Using-Java-With-Collections.git
 
 
-
-
-
-
-
-
-
+=======================================================================================================================================================================================================================
 
  :)  Welcome to the My Library Management Service Application  :) 
  
