@@ -206,14 +206,15 @@ Librabry Management Service Application Menu :
 ==========================================
 Listing of the all Loan : 
 Loan :
- =============================================book=
+ =============================================
 Book :
 ===============================================	
 title='Mahabharatha'	
 author='vyasa',	
 isbn='101',	
 copiesAvailable=499, member=Member : 
-=========================================memberId=1, name='Nagendra B K', email='nagudio03@gmail.com', phoneNumber='9844664939', issueDate=2024-10-01, dueDate=2024-12-31
+=========================================
+memberId=1, name='Nagendra B K', email='nagudio03@gmail.com', phoneNumber='9844664939', issueDate=2024-10-01, dueDate=2024-12-31
 ==========================================
  
 Librabry Management Service Application Menu : 
